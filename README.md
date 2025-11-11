@@ -13,4 +13,38 @@ Deliti represents a comprehensive food delivery ecosystem engineered with modern
 - **State Management:** Provider Pattern with Service Layer Abstraction
 - **API Design:** RESTful JSON API with CORS Compliance
 
-## 📁 Project Architecture & Module Structure
+
+# 🍔 Deliti - Food Delivery App
+
+> A cool Flutter app with PHP backend for food delivery
+
+## 🚀 Quick Start
+
+**If you want everything to work, make sure these 5 things are ready:**
+
+### ✅ 1. **Databases** 
+- MySQL database running
+- Import the SQL file included
+
+### ✅ 2. **PHP** 
+- XAMPP/WAMP running (Apache + MySQL)
+- PHP files in `htdocs/deliti/api/`
+
+### ✅ 3. **Assets**
+- All images in `assets/` folder
+- Menu pics, logos, icons
+
+### ✅ 4. **Lib** 
+- Flutter code in `lib/` folder
+- All Dart files present
+
+### ✅ 5. **Pubspec**
+- `pubspec.yaml` configured
+- Run `flutter pub get`
+
+## 🎯 That's It!
+When all 5 are ready → **Run `flutter run`** and enjoy! 🍕
+
+---
+
+*No complicated stuff - just make sure these 5 things work together* ✨
