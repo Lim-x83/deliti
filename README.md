@@ -47,4 +47,4 @@ When all 5 are ready → **Run `flutter run`** and enjoy! 🍕
 
 ---
 
-*No complicated stuff - just make sure these 5 things work together* ✨
+
