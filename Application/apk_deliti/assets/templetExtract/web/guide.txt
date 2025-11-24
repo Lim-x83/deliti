@@ -1,0 +1,30 @@
+so you need the original png file. (it must be PNG)
+and then change the name of each file to suit every device size. after all just run it
+
+and you must do like this potition
+
+web
+    icons
+        Icon-192.png
+        Icon-512.png
+        Icon-maskable-192.png
+        Icon-maskable-512.png
+    favicon.png
+
+
+make sure, it all placed on the correct place, and then the name of PNG file must also like that.
+you can change the name if you want to change the code. but changing code cost 1hours, more better
+just changing the file Name
+
+
+
+--------------------------------
+to change the web name, you need go to
+web/index.html
+
+and then find
+<head>
+    <title>apk_deliti</title>
+</head>
+
+that case. you can change the name by the value itself like Deliti
